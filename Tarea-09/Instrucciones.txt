@@ -1,0 +1,9 @@
+1. Usa un usuario diferente al que normalmente usas que tenga permisos de administrador, si no tienes uno entonces crealo. Si no sabes como crear un usuario con permisos de administrador revisa el siguiente blog: https://www.itechguides.com/how-to-get-administrator-privileges-on-windows-10/
+2. Vas a la siguiente carpeta: 'C:\Users\<nombre del usuario con el que no estás usando actualmente>' y copias un archivo DAT.
+3. Activas la opcion para ver archivos ocultos (FOTO.png)
+4. Descargas la siguiente herramienta: github.com/keydet89/RegRipper3.0.
+5. Dentro de esa carpeta hay un archivo llamado "rr.exe" lo ejecutas.
+6. Y en input pondras el archivo que se llama DAT file, en la parte donde te pide un nombre para un output pones cualquier nombre e inicias el programa.
+7. Cuando el programa termine de te dejara dos archivos: uno con terminacion log y otro con terminacion txt.
+8. Guardas esos dos archivos en esta carpeta.
+9. Borras el archivo de instrucciones y subes la carpeta como evidencia.

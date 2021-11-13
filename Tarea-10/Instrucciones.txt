@@ -1,0 +1,2 @@
+1. Abres powershell y escribes lo siguiente: ipconfig /displaydns > "tarea.txt"
+2. Guardas el archivo en esta carpeta, borras el archivo de las instrucciones y subes la carpeta como evidencia.
